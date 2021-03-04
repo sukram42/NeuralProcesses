@@ -9,12 +9,10 @@ In the gif we can observe that the processes are learning and are able to regres
 
 Attentive Neural processes try to improve this, by adding a weighting of the context points for the input [3].
 
-# TODO
+### TODO
 - Write about the implementation (Architectures, Data used etc)
 
 ### Source
-[1] [Marta Garnelo et al. Neural Processes. 2018](https://arxiv.org/abs/1807.01622)
-
-[2] [Marta Garnelo et al. Conditional Neural Processes. 2018](http://proceedings.mlr.press/v80/garnelo18a.html)
-
+[1] [Marta Garnelo et al. Neural Processes. 2018](https://arxiv.org/abs/1807.01622)</br>
+[2] [Marta Garnelo et al. Conditional Neural Processes. 2018](http://proceedings.mlr.press/v80/garnelo18a.html)</br>
 [3] [Hyunjik Kim et al. Attentive Neural Processes, 2019](https://arxiv.org/abs/1901.05761)
